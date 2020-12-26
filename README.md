@@ -14,8 +14,8 @@ This project is created for learning and implementing the Fast API in Python.
 
 ### Project Execution
 
-Execute the '[main_controller](main/controller/main_controller.py)' using command:
-`uvicorn main.controller.main_controller:app --reload`
+Execute the '[main_controller](main/program/controller/main_controller.py)' using command:
+`uvicorn main.program.controller.main_controller:app --reload`
 
 URLS:
  - Interactive API docs: http://127.0.0.1:8000/docs
